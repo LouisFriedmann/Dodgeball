@@ -11,6 +11,6 @@ Player 2 controls: Moving- arrow keys, to hold the ball- hold P down while overl
 controls the direction of the ball, is where you want it. Then, let go of both keys and press m when the power meter, which controls how fast and far the ball goes, is where you want it. 
 To catch a ball- hold R-shift (not for too long or catching will be disabled for a short time).
 
-To run this: Have Python 3 or greater installed, place all of the files in this repository in the same directory on your own computer, install the package "pygame", and run "dodgeball.py" with an IDE or through the command prompt.
+To run this: Have Python 3 or greater installed, place all of the files in this repository in the same directory on your own computer by downloading a zip file of this and extracting all files to the same directory, install the package "pygame", and run "dodgeball.py" with an IDE or through the command prompt.
 
 
